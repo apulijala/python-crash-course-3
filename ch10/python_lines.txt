@@ -1,0 +1,12 @@
+Learn if statement. In python if statement is got by if condition: and else: 
+Learned while loop. In Python while loop syntax is while condtion: <lines> 
+Learned how to define a function. in python Syntax is done with def <name of the function> 
+Functions can return a value in Python. 
+Lists are defined in python with []
+Dictionaries are defined with flower braces {}
+list methods are pop() to remove with an index. find to find a value. 
+insert method on list inserts list at any position. 
+items() returns keys and values. 
+keys() return the keys of the dictionary. 
+values() return the values of the dictionary. 
+string formatters are with f"{}"
